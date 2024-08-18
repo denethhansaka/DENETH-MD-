@@ -6,4 +6,6 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID,
+ALIVE_IMG: process.env.ALIVE_IMG "image ekak"
+ALIVE_MSG: process.envALIVE_MSG "Hey,Welcome to the DENETH-MD"
 };
